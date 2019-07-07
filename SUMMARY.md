@@ -3,5 +3,5 @@
 * [Introduction](README.md)
 
 -----
-* [序章](universal/D1/00.md)
+* [序章](universal/day1/00.md)
 
