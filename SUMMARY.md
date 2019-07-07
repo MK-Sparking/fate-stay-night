@@ -2,7 +2,7 @@
 
 * [Introduction](README.md)
 
-## 序章 <a id="xu-zhang-1"></a>
+## 序章 <a id="prologue"></a>
 
-* [第一天-00](xu-zhang-1/day1-00.md)
+* [第一天-00](prologue/day1-00.md)
 
