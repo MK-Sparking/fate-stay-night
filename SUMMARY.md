@@ -1,7 +1,8 @@
-# Summary
+# Table of contents
 
 * [Introduction](README.md)
 
------
-* [序章](universal/day1/00.md)
+## 序章 <a id="prologue"></a>
+
+* [第一天-00](prologue/day1-00.md)
 
