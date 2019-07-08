@@ -2,7 +2,7 @@
 
 * [Introduction](README.md)
 
-## 序章<a id="prolouge"></a>
+## Prologue<a id="prolouge"></a>
 
 
 
